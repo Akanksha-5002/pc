@@ -1,0 +1,6 @@
+1. git init
+2. git remote add origin (link of the repo)
+3.git add .
+4.git commit -m " eg. I have commited"
+5. git push origin master
+then it will ask for login for git and then donecd 
